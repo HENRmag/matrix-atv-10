@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(matrix/fundo_matrix.jpg);
+    background-repeat: no-repeat;
+}
+#div01 h1{
+    color: lawngreen;
+
+}
+#div01{
+    margin: 1% 10%;
+    width: 500px;
+    background: black;
+    display: flex;
+    flex-direction: column;
+}
+#div02 h3{
+    color: lawngreen;
+    display: flex;
+    text-align: left;
+    font-size: 15px;
+    padding-left: 50px;
+    text-align: left;
+    
+}
+#div01 a{
+    color: lawngreen;
+    padding-left:190px; 
+}
